@@ -1,0 +1,417 @@
+[I 10:47:13.924 NotebookApp] Serving notebooks from local directory: /Users/wsl-user/Desktop/workspace/ryoko/train-python
+[I 10:47:13.925 NotebookApp] 0 active kernels
+[I 10:47:13.925 NotebookApp] The Jupyter Notebook is running at:
+[I 10:47:13.925 NotebookApp] http://localhost:8888/?token=5f3c09ca4241d790f6ca9b7004c0e8078ba0b4cb38f72638
+[I 10:47:13.925 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 10:47:13.926 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=5f3c09ca4241d790f6ca9b7004c0e8078ba0b4cb38f72638
+[I 10:47:14.749 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 10:47:15.541 NotebookApp] 404 GET /static/components/moment/locale/ja.js?v=20171207104711 (::1) 21.17ms referer=http://localhost:8888/tree
+[W 10:47:18.117 NotebookApp] Notebook work02.ipynb is not trusted
+[W 10:47:18.141 NotebookApp] 404 GET /static/components/moment/locale/ja.js?v=20171207104711 (::1) 2.69ms referer=http://localhost:8888/notebooks/work02.ipynb
+[W 10:47:18.155 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171207104711 (::1) 2.54ms referer=http://localhost:8888/notebooks/work02.ipynb
+[I 10:47:18.943 NotebookApp] Kernel started: 2354fb92-62e4-4dd9-869b-47ba5e6516de
+[I 10:47:21.822 NotebookApp] Adapting to protocol v5.1 for kernel 2354fb92-62e4-4dd9-869b-47ba5e6516de
+[I 13:28:07.324 NotebookApp] Saving file at /work02.ipynb
+[W 13:28:07.328 NotebookApp] Notebook work02.ipynb is not trusted
+[I 13:30:07.318 NotebookApp] Saving file at /work02.ipynb
+[W 13:30:07.319 NotebookApp] Notebook work02.ipynb is not trusted
+[I 13:32:08.246 NotebookApp] Saving file at /work02.ipynb
+[W 13:32:08.247 NotebookApp] Notebook work02.ipynb is not trusted
+[I 13:34:07.340 NotebookApp] Saving file at /work02.ipynb
+[W 13:34:07.340 NotebookApp] Notebook work02.ipynb is not trusted
+[I 13:36:11.974 NotebookApp] Saving file at /work02.ipynb
+[W 13:36:11.977 NotebookApp] Notebook work02.ipynb is not trusted
+[I 13:38:07.360 NotebookApp] Saving file at /work02.ipynb
+[W 13:38:07.363 NotebookApp] Notebook work02.ipynb is not trusted
+[W 13:39:40.086 NotebookApp] 404 GET /static/components/moment/locale/ja.js?v=20171207104711 (::1) 2.12ms referer=http://localhost:8888/notebooks/test1.ipynb
+[W 13:39:40.094 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171207104711 (::1) 2.01ms referer=http://localhost:8888/notebooks/test1.ipynb
+[I 13:39:40.296 NotebookApp] Kernel started: 098cf443-32a1-433d-9ab2-db66d9706b00
+[I 13:39:43.463 NotebookApp] Adapting to protocol v5.1 for kernel 098cf443-32a1-433d-9ab2-db66d9706b00
+[I 13:41:40.308 NotebookApp] Saving file at /test1.ipynb
+[W 13:42:19.018 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171207104711 (::1) 2.38ms referer=http://localhost:8888/notebooks/sample.ipynb
+[W 13:42:19.026 NotebookApp] 404 GET /static/components/moment/locale/ja.js?v=20171207104711 (::1) 1.73ms referer=http://localhost:8888/notebooks/sample.ipynb
+[I 13:42:19.280 NotebookApp] Kernel started: 06597e77-7fcd-4fc3-b132-70f2daad5c93
+[I 13:42:22.525 NotebookApp] Adapting to protocol v5.1 for kernel 06597e77-7fcd-4fc3-b132-70f2daad5c93
+[W 13:42:26.398 NotebookApp] 404 GET /static/components/moment/locale/ja.js?v=20171207104711 (::1) 2.13ms referer=http://localhost:8888/tree/input
+[W 13:42:28.667 NotebookApp] 404 GET /static/components/moment/locale/ja.js?v=20171207104711 (::1) 3.95ms referer=http://localhost:8888/edit/input/sample_work01.csv
+[I 13:45:46.892 NotebookApp] Saving file at /sample.ipynb
+[I 13:46:06.223 NotebookApp] Saving file at /sample.ipynb
+[I 13:46:19.307 NotebookApp] Saving file at /sample.ipynb
+[I 13:49:11.470 NotebookApp] Saving file at /sample.ipynb
+[I 13:49:25.147 NotebookApp] Saving file at /sample.ipynb
+[I 13:49:37.206 NotebookApp] Saving file at /sample.ipynb
+[I 13:50:19.090 NotebookApp] Saving file at /sample.ipynb
+[I 13:53:48.220 NotebookApp] Saving file at /sample.ipynb
+[I 13:54:19.125 NotebookApp] Saving file at /sample.ipynb
+[I 13:57:40.159 NotebookApp] Saving file at /test1.ipynb
+[I 13:59:40.163 NotebookApp] Saving file at /test1.ipynb
+[I 14:00:09.286 NotebookApp] Saving file at /test1.ipynb
+[I 14:01:22.865 NotebookApp] Saving file at /test1.ipynb
+[I 14:01:40.157 NotebookApp] Saving file at /test1.ipynb
+[I 14:01:51.050 NotebookApp] Saving file at /test1.ipynb
+[I 14:03:41.163 NotebookApp] Saving file at /test1.ipynb
+[I 14:04:07.250 NotebookApp] Saving file at /work02.ipynb
+[W 14:04:07.251 NotebookApp] Notebook work02.ipynb is not trusted
+[I 14:05:14.581 NotebookApp] Saving file at /work02.ipynb
+[W 14:05:14.584 NotebookApp] Notebook work02.ipynb is not trusted
+[I 14:06:08.171 NotebookApp] Saving file at /work02.ipynb
+[W 14:06:08.174 NotebookApp] Notebook work02.ipynb is not trusted
+[I 14:06:43.528 NotebookApp] Saving file at /test1.ipynb
+[I 14:06:51.384 NotebookApp] Saving file at /test1.ipynb
+[I 14:07:41.719 NotebookApp] Saving file at /test1.ipynb
+[I 14:11:42.007 NotebookApp] Saving file at /test1.ipynb
+[I 14:12:47.792 NotebookApp] Saving file at /test1.ipynb
+[I 14:13:40.230 NotebookApp] Saving file at /test1.ipynb
+[I 14:15:31.514 NotebookApp] Saving file at /test1.ipynb
+[I 14:15:40.224 NotebookApp] Saving file at /test1.ipynb
+[I 14:17:14.910 NotebookApp] Saving file at /test1.ipynb
+[I 14:17:41.633 NotebookApp] Saving file at /test1.ipynb
+[I 14:21:30.542 NotebookApp] Saving file at /test1.ipynb
+[I 14:21:40.308 NotebookApp] Saving file at /test1.ipynb
+[I 14:23:41.459 NotebookApp] Saving file at /test1.ipynb
+[I 14:25:04.827 NotebookApp] Saving file at /test1.ipynb
+[I 14:25:40.259 NotebookApp] Saving file at /test1.ipynb
+[I 14:27:42.660 NotebookApp] Saving file at /test1.ipynb
+[I 14:58:56.993 NotebookApp] Saving file at /test1.ipynb
+[I 17:59:36.174 NotebookApp] Saving file at /test1.ipynb
+[I 23:07:40.060 NotebookApp] Saving file at /test1.ipynb
+[I 23:08:20.791 NotebookApp] Saving file at /test1.ipynb
+[I 23:09:04.517 NotebookApp] Saving file at /test1.ipynb
+[I 23:09:37.256 NotebookApp] Saving file at /test1.ipynb
+[I 23:10:20.795 NotebookApp] Saving file at /test1.ipynb
+[I 23:40:26.564 NotebookApp] Saving file at /test1.ipynb
+[I 23:40:31.966 NotebookApp] Saving file at /test1.ipynb
+[I 23:40:57.912 NotebookApp] Saving file at /test1.ipynb
+[I 23:42:20.992 NotebookApp] Saving file at /test1.ipynb
+[I 23:42:22.634 NotebookApp] Saving file at /test1.ipynb
+[I 23:42:41.207 NotebookApp] Saving file at /test1.ipynb
+[I 23:44:21.004 NotebookApp] Saving file at /test1.ipynb
+[I 23:45:01.479 NotebookApp] Saving file at /test1.ipynb
+[I 23:45:42.478 NotebookApp] Saving file at /test1.ipynb
+[I 23:46:10.184 NotebookApp] Saving file at /work02.ipynb
+[W 23:46:10.188 NotebookApp] Notebook work02.ipynb is not trusted
+[I 23:46:22.018 NotebookApp] Saving file at /test1.ipynb
+[I 23:46:49.014 NotebookApp] Saving file at /work02.ipynb
+[W 23:46:49.016 NotebookApp] Notebook work02.ipynb is not trusted
+[W 23:47:14.620 NotebookApp] 404 GET /static/components/moment/locale/ja.js?v=20171207104711 (::1) 11.39ms referer=http://localhost:8888/tree
+[W 23:47:18.883 NotebookApp] 404 GET /static/components/moment/locale/ja.js?v=20171207104711 (::1) 2.51ms referer=http://localhost:8888/notebooks/sample.ipynb
+[W 23:47:18.926 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171207104711 (::1) 4.26ms referer=http://localhost:8888/notebooks/sample.ipynb
+[I 23:47:19.271 NotebookApp] Adapting to protocol v5.1 for kernel 06597e77-7fcd-4fc3-b132-70f2daad5c93
+[I 23:47:55.028 NotebookApp] Saving file at /sample.ipynb
+[I 23:49:20.028 NotebookApp] Saving file at /sample.ipynb
+[I 23:49:49.296 NotebookApp] Saving file at /test1.ipynb
+[I 23:50:21.036 NotebookApp] Saving file at /test1.ipynb
+[I 23:50:49.062 NotebookApp] Saving file at /work02.ipynb
+[W 23:50:49.063 NotebookApp] Notebook work02.ipynb is not trusted
+[I 23:51:47.144 NotebookApp] Saving file at /sample.ipynb
+[I 23:52:28.325 NotebookApp] Saving file at /sample.ipynb
+[I 23:52:38.690 NotebookApp] Saving file at /sample.ipynb
+[I 23:53:19.261 NotebookApp] Saving file at /sample.ipynb
+[I 23:54:22.076 NotebookApp] Saving file at /test1.ipynb
+[I 23:55:20.083 NotebookApp] Saving file at /sample.ipynb
+[I 23:57:20.104 NotebookApp] Saving file at /sample.ipynb
+[I 23:59:19.542 NotebookApp] Saving file at /sample.ipynb
+[I 00:00:24.099 NotebookApp] Saving file at /test1.ipynb
+[I 00:03:18.847 NotebookApp] Saving file at /sample.ipynb
+[I 00:03:19.331 NotebookApp] Saving file at /sample.ipynb
+[I 00:03:22.216 NotebookApp] Saving file at /sample.ipynb
+[I 00:04:21.130 NotebookApp] Saving file at /test1.ipynb
+[I 00:05:20.122 NotebookApp] Saving file at /sample.ipynb
+[I 00:06:22.124 NotebookApp] Saving file at /test1.ipynb
+[I 00:06:49.138 NotebookApp] Saving file at /work02.ipynb
+[W 00:06:49.141 NotebookApp] Notebook work02.ipynb is not trusted
+[I 00:07:19.336 NotebookApp] Saving file at /sample.ipynb
+[I 00:09:19.358 NotebookApp] Saving file at /sample.ipynb
+[I 00:11:21.550 NotebookApp] Saving file at /sample.ipynb
+[I 00:13:19.375 NotebookApp] Saving file at /sample.ipynb
+[I 00:14:22.179 NotebookApp] Saving file at /test1.ipynb
+[W 00:14:25.124 NotebookApp] Notebook answer01.ipynb is not trusted
+[W 00:14:25.175 NotebookApp] 404 GET /static/components/moment/locale/ja.js?v=20171207104711 (::1) 8.92ms referer=http://localhost:8888/notebooks/answer01.ipynb
+[W 00:14:25.198 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171207104711 (::1) 19.75ms referer=http://localhost:8888/notebooks/answer01.ipynb
+[I 00:14:25.730 NotebookApp] Kernel started: 6c144442-6f16-4d34-9a49-a512120d4afd
+[W 00:14:27.991 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171207104711 (::1) 6.92ms referer=http://localhost:8888/notebooks/work01.ipynb
+[W 00:14:28.009 NotebookApp] 404 GET /static/components/moment/locale/ja.js?v=20171207104711 (::1) 10.81ms referer=http://localhost:8888/notebooks/work01.ipynb
+[I 00:14:28.514 NotebookApp] Kernel started: fc32acea-100d-4b07-9c08-6c14364ec8da
+[I 00:14:29.475 NotebookApp] Adapting to protocol v5.1 for kernel 6c144442-6f16-4d34-9a49-a512120d4afd
+[I 00:14:29.964 NotebookApp] Adapting to protocol v5.1 for kernel fc32acea-100d-4b07-9c08-6c14364ec8da
+[I 00:14:39.939 NotebookApp] Starting buffering for fc32acea-100d-4b07-9c08-6c14364ec8da:FD44AF00E9CE4C318382C134DB5BD6E3
+[I 00:16:49.209 NotebookApp] Saving file at /work02.ipynb
+[W 00:16:49.216 NotebookApp] Notebook work02.ipynb is not trusted
+[I 00:17:19.417 NotebookApp] Saving file at /sample.ipynb
+[I 00:17:37.025 NotebookApp] Starting buffering for 6c144442-6f16-4d34-9a49-a512120d4afd:23EC2CE71DFF47F08CA3588D7F458944
+[I 00:18:48.281 NotebookApp] Saving file at /work02.ipynb
+[W 00:18:48.285 NotebookApp] Notebook work02.ipynb is not trusted
+[W 00:21:49.680 NotebookApp] Notebook work02.ipynb is not trusted
+[W 00:21:49.734 NotebookApp] 404 GET /static/components/moment/locale/ja.js?v=20171207104711 (::1) 1.83ms referer=http://localhost:8888/notebooks/work02.ipynb
+[W 00:21:49.745 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171207104711 (::1) 3.32ms referer=http://localhost:8888/notebooks/work02.ipynb
+[I 00:21:50.651 NotebookApp] Adapting to protocol v5.1 for kernel 2354fb92-62e4-4dd9-869b-47ba5e6516de
+[W 00:21:52.684 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171207104711 (::1) 2.89ms referer=http://localhost:8888/notebooks/work01.ipynb
+[W 00:21:52.698 NotebookApp] 404 GET /static/components/moment/locale/ja.js?v=20171207104711 (::1) 3.96ms referer=http://localhost:8888/notebooks/work01.ipynb
+[I 00:21:53.109 NotebookApp] Adapting to protocol v5.1 for kernel fc32acea-100d-4b07-9c08-6c14364ec8da
+[I 00:22:21.992 NotebookApp] Saving file at /work01.ipynb
+[I 00:23:04.654 NotebookApp] Saving file at /sample.ipynb
+[I 00:23:19.422 NotebookApp] Saving file at /sample.ipynb
+[I 00:23:53.229 NotebookApp] Saving file at /work01.ipynb
+[I 00:24:20.129 NotebookApp] Saving file at /work02.ipynb
+[W 00:24:20.132 NotebookApp] Notebook work02.ipynb is not trusted
+[I 00:24:49.221 NotebookApp] Saving file at /work02.ipynb
+[W 00:24:49.224 NotebookApp] Notebook work02.ipynb is not trusted
+[I 00:25:07.443 NotebookApp] Saving file at /work02.ipynb
+[W 00:25:07.446 NotebookApp] Notebook work02.ipynb is not trusted
+[I 00:25:20.231 NotebookApp] Saving file at /sample.ipynb
+[I 00:26:22.246 NotebookApp] Saving file at /test1.ipynb
+[I 00:26:32.780 NotebookApp] Saving file at /work02.ipynb
+[W 00:26:32.781 NotebookApp] Notebook work02.ipynb is not trusted
+[I 00:26:48.323 NotebookApp] Saving file at /work02.ipynb
+[W 00:26:48.326 NotebookApp] Notebook work02.ipynb is not trusted
+[I 00:54:34.243 NotebookApp] Saving file at /work02.ipynb
+[W 00:54:34.248 NotebookApp] Notebook work02.ipynb is not trusted
+[I 00:54:48.515 NotebookApp] Saving file at /test1.ipynb
+[I 00:56:07.206 NotebookApp] Saving file at /test1.ipynb
+[I 00:58:05.323 NotebookApp] Starting buffering for fc32acea-100d-4b07-9c08-6c14364ec8da:C933BB7446444472A76354EA550852E5
+[I 00:59:04.435 NotebookApp] Saving file at /sample.ipynb
+[I 00:59:40.647 NotebookApp] Saving file at /sample.ipynb
+[I 01:00:04.066 NotebookApp] Saving file at /sample.ipynb
+[I 01:01:05.239 NotebookApp] Saving file at /sample.ipynb
+[I 01:03:04.450 NotebookApp] Saving file at /sample.ipynb
+[I 01:03:16.019 NotebookApp] Saving file at /sample.ipynb
+[I 01:03:28.842 NotebookApp] Saving file at /sample.ipynb
+[I 01:04:19.667 NotebookApp] Saving file at /sample.ipynb
+[I 01:04:43.277 NotebookApp] Saving file at /sample.ipynb
+[I 01:05:04.464 NotebookApp] Saving file at /sample.ipynb
+[I 01:08:06.296 NotebookApp] Saving file at /test1.ipynb
+[I 01:14:07.327 NotebookApp] Saving file at /test1.ipynb
+[I 01:14:19.065 NotebookApp] Saving file at /sample.ipynb
+[I 01:15:05.303 NotebookApp] Saving file at /sample.ipynb
+[I 01:16:06.306 NotebookApp] Saving file at /test1.ipynb
+[I 01:18:06.329 NotebookApp] Saving file at /test1.ipynb
+[I 01:24:07.402 NotebookApp] Saving file at /test1.ipynb
+[I 01:26:07.349 NotebookApp] Saving file at /test1.ipynb
+[I 01:26:21.578 NotebookApp] Saving file at /sample.ipynb
+[I 01:26:39.176 NotebookApp] Saving file at /sample.ipynb
+[I 01:27:05.375 NotebookApp] Saving file at /sample.ipynb
+[I 01:33:04.617 NotebookApp] Saving file at /sample.ipynb
+[I 01:36:01.537 NotebookApp] Saving file at /work02.ipynb
+[W 01:36:01.542 NotebookApp] Notebook work02.ipynb is not trusted
+[I 01:36:33.528 NotebookApp] Saving file at /work02.ipynb
+[W 01:36:33.533 NotebookApp] Notebook work02.ipynb is not trusted
+[W 01:37:19.553 NotebookApp] 404 GET /static/components/moment/locale/ja.js?v=20171207104711 (::1) 10.71ms referer=http://localhost:8888/notebooks/work01.ipynb
+[W 01:37:19.589 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171207104711 (::1) 20.02ms referer=http://localhost:8888/notebooks/work01.ipynb
+[I 01:37:20.171 NotebookApp] Adapting to protocol v5.1 for kernel fc32acea-100d-4b07-9c08-6c14364ec8da
+[I 01:40:24.330 NotebookApp] Saving file at /work02.ipynb
+[W 01:40:24.335 NotebookApp] Notebook work02.ipynb is not trusted
+[I 01:40:33.478 NotebookApp] Saving file at /work02.ipynb
+[W 01:40:33.481 NotebookApp] Notebook work02.ipynb is not trusted
+[I 01:44:07.526 NotebookApp] Saving file at /work02.ipynb
+[W 01:44:07.535 NotebookApp] Notebook work02.ipynb is not trusted
+[I 01:44:34.420 NotebookApp] Saving file at /work02.ipynb
+[W 01:44:34.423 NotebookApp] Notebook work02.ipynb is not trusted
+[I 01:44:57.482 NotebookApp] Saving file at /work02.ipynb
+[W 01:44:57.484 NotebookApp] Notebook work02.ipynb is not trusted
+[I 01:46:10.731 NotebookApp] Saving file at /work02.ipynb
+[W 01:46:10.735 NotebookApp] Notebook work02.ipynb is not trusted
+[I 01:46:34.429 NotebookApp] Saving file at /work02.ipynb
+[W 01:46:34.432 NotebookApp] Notebook work02.ipynb is not trusted
+[I 01:46:49.519 NotebookApp] Saving file at /work02.ipynb
+[W 01:46:49.521 NotebookApp] Notebook work02.ipynb is not trusted
+[I 01:47:45.478 NotebookApp] Saving file at /work02.ipynb
+[W 01:47:45.482 NotebookApp] Notebook work02.ipynb is not trusted
+[I 01:48:32.421 NotebookApp] Saving file at /work02.ipynb
+[W 01:48:32.427 NotebookApp] Notebook work02.ipynb is not trusted
+[I 01:48:33.536 NotebookApp] Saving file at /work02.ipynb
+[W 01:48:33.537 NotebookApp] Notebook work02.ipynb is not trusted
+[I 01:48:49.811 NotebookApp] Saving file at /work02.ipynb
+[W 01:48:49.814 NotebookApp] Notebook work02.ipynb is not trusted
+[I 01:49:08.159 NotebookApp] Saving file at /work02.ipynb
+[W 01:49:08.162 NotebookApp] Notebook work02.ipynb is not trusted
+[I 01:50:33.545 NotebookApp] Saving file at /work02.ipynb
+[W 01:50:33.550 NotebookApp] Notebook work02.ipynb is not trusted
+[I 01:50:33.761 NotebookApp] Saving file at /work02.ipynb
+[W 01:50:33.762 NotebookApp] Notebook work02.ipynb is not trusted
+[I 01:52:05.128 NotebookApp] Saving file at /work02.ipynb
+[W 01:52:05.135 NotebookApp] Notebook work02.ipynb is not trusted
+[I 01:52:33.533 NotebookApp] Saving file at /work02.ipynb
+[W 01:52:33.536 NotebookApp] Notebook work02.ipynb is not trusted
+[I 01:52:54.293 NotebookApp] Saving file at /work02.ipynb
+[W 01:52:54.302 NotebookApp] Notebook work02.ipynb is not trusted
+[I 01:53:17.545 NotebookApp] Saving file at /work02.ipynb
+[W 01:53:17.548 NotebookApp] Notebook work02.ipynb is not trusted
+[I 01:54:16.149 NotebookApp] Saving file at /work02.ipynb
+[W 01:54:16.156 NotebookApp] Notebook work02.ipynb is not trusted
+[I 01:54:34.467 NotebookApp] Saving file at /work02.ipynb
+[W 01:54:34.470 NotebookApp] Notebook work02.ipynb is not trusted
+[I 01:54:41.376 NotebookApp] Saving file at /work02.ipynb
+[W 01:54:41.377 NotebookApp] Notebook work02.ipynb is not trusted
+[I 01:54:49.026 NotebookApp] Saving file at /work02.ipynb
+[W 01:54:49.027 NotebookApp] Notebook work02.ipynb is not trusted
+[I 01:56:33.567 NotebookApp] Saving file at /work02.ipynb
+[W 01:56:33.571 NotebookApp] Notebook work02.ipynb is not trusted
+[I 01:56:36.660 NotebookApp] Saving file at /work02.ipynb
+[W 01:56:36.661 NotebookApp] Notebook work02.ipynb is not trusted
+[I 01:58:34.495 NotebookApp] Saving file at /work02.ipynb
+[W 01:58:34.499 NotebookApp] Notebook work02.ipynb is not trusted
+[I 01:58:42.314 NotebookApp] Saving file at /work02.ipynb
+[W 01:58:42.315 NotebookApp] Notebook work02.ipynb is not trusted
+[I 02:00:34.553 NotebookApp] Saving file at /work02.ipynb
+[W 02:00:34.557 NotebookApp] Notebook work02.ipynb is not trusted
+[I 02:01:02.759 NotebookApp] Saving file at /work02.ipynb
+[W 02:01:02.762 NotebookApp] Notebook work02.ipynb is not trusted
+[I 02:01:05.646 NotebookApp] Saving file at /work02.ipynb
+[W 02:01:05.647 NotebookApp] Notebook work02.ipynb is not trusted
+[I 02:01:10.804 NotebookApp] Saving file at /work02.ipynb
+[I 02:02:32.410 NotebookApp] Saving file at /work02.ipynb
+[I 02:02:33.591 NotebookApp] Saving file at /work02.ipynb
+[I 02:03:01.742 NotebookApp] Saving file at /work02.ipynb
+[I 02:04:34.525 NotebookApp] Saving file at /work02.ipynb
+[I 02:06:12.266 NotebookApp] Saving file at /work02.ipynb
+[I 02:06:33.595 NotebookApp] Saving file at /work02.ipynb
+[I 02:08:59.118 NotebookApp] Saving file at /work02.ipynb
+[I 02:10:33.613 NotebookApp] Saving file at /work02.ipynb
+[I 02:16:06.894 NotebookApp] Saving file at /work02.ipynb
+[I 02:16:33.640 NotebookApp] Saving file at /work02.ipynb
+[I 02:17:29.392 NotebookApp] Saving file at /work02.ipynb
+[I 02:18:25.266 NotebookApp] Saving file at /work02.ipynb
+[I 02:18:33.652 NotebookApp] Saving file at /work02.ipynb
+[I 02:20:34.643 NotebookApp] Saving file at /work02.ipynb
+[I 02:22:47.989 NotebookApp] Saving file at /work02.ipynb
+[I 02:23:29.586 NotebookApp] Saving file at /work02.ipynb
+[I 02:24:33.690 NotebookApp] Saving file at /work02.ipynb
+[I 02:24:34.050 NotebookApp] Saving file at /work02.ipynb
+[I 02:25:14.758 NotebookApp] Saving file at /work02.ipynb
+[I 02:26:19.892 NotebookApp] Saving file at /work02.ipynb
+[I 02:26:34.614 NotebookApp] Saving file at /work02.ipynb
+[I 02:28:34.618 NotebookApp] Saving file at /work02.ipynb
+[I 02:31:55.966 NotebookApp] Saving file at /sample.ipynb
+[I 02:32:28.811 NotebookApp] Saving file at /sample.ipynb
+[I 02:33:04.852 NotebookApp] Saving file at /sample.ipynb
+[I 02:33:09.870 NotebookApp] Saving file at /sample.ipynb
+[I 02:33:19.271 NotebookApp] Saving file at /sample.ipynb
+[I 02:34:33.729 NotebookApp] Saving file at /work02.ipynb
+[I 02:35:05.665 NotebookApp] Saving file at /sample.ipynb
+[I 02:38:45.602 NotebookApp] Saving file at /sample.ipynb
+[I 02:38:55.226 NotebookApp] Saving file at /sample.ipynb
+[I 02:39:04.880 NotebookApp] Saving file at /sample.ipynb
+[I 02:41:28.221 NotebookApp] Saving file at /sample.ipynb
+[I 02:41:37.605 NotebookApp] Saving file at /sample.ipynb
+[I 02:43:05.696 NotebookApp] Saving file at /sample.ipynb
+[I 02:43:45.770 NotebookApp] Saving file at /sample.ipynb
+[I 02:43:55.886 NotebookApp] Saving file at /sample.ipynb
+[I 02:44:31.741 NotebookApp] Saving file at /sample.ipynb
+[I 02:44:40.518 NotebookApp] Saving file at /sample.ipynb
+[I 02:44:45.228 NotebookApp] Saving file at /sample.ipynb
+[I 02:45:04.916 NotebookApp] Saving file at /sample.ipynb
+[I 02:45:38.770 NotebookApp] Saving file at /sample.ipynb
+[I 02:45:48.165 NotebookApp] Saving file at /sample.ipynb
+[I 02:46:04.781 NotebookApp] Saving file at /sample.ipynb
+[I 02:46:09.629 NotebookApp] Saving file at /sample.ipynb
+[I 02:46:15.499 NotebookApp] Saving file at /sample.ipynb
+[I 02:46:45.650 NotebookApp] Saving file at /sample.ipynb
+[I 02:47:04.921 NotebookApp] Saving file at /sample.ipynb
+[I 02:47:08.545 NotebookApp] Saving file at /sample.ipynb
+[I 02:47:39.528 NotebookApp] Saving file at /sample.ipynb
+[I 02:48:00.478 NotebookApp] Saving file at /sample.ipynb
+[I 02:48:18.317 NotebookApp] Saving file at /sample.ipynb
+[I 02:49:04.921 NotebookApp] Saving file at /sample.ipynb
+[I 02:49:11.929 NotebookApp] Saving file at /sample.ipynb
+[I 02:49:31.343 NotebookApp] Saving file at /sample.ipynb
+[I 02:49:36.153 NotebookApp] Saving file at /sample.ipynb
+[I 02:50:37.838 NotebookApp] Saving file at /sample.ipynb
+[I 02:50:56.136 NotebookApp] Saving file at /sample.ipynb
+[I 02:51:03.095 NotebookApp] Saving file at /sample.ipynb
+[I 02:51:05.120 NotebookApp] Saving file at /sample.ipynb
+[I 02:51:33.456 NotebookApp] Saving file at /sample.ipynb
+[I 02:52:40.544 NotebookApp] Saving file at /sample.ipynb
+[I 02:52:51.973 NotebookApp] Saving file at /sample.ipynb
+[I 02:53:04.941 NotebookApp] Saving file at /sample.ipynb
+[I 02:53:06.794 NotebookApp] Saving file at /sample.ipynb
+[I 02:55:04.971 NotebookApp] Saving file at /sample.ipynb
+[I 02:55:10.537 NotebookApp] Saving file at /sample.ipynb
+[I 02:55:30.139 NotebookApp] Saving file at /sample.ipynb
+[I 02:55:41.850 NotebookApp] Saving file at /sample.ipynb
+[I 02:55:52.578 NotebookApp] Saving file at /sample.ipynb
+[I 02:56:08.113 NotebookApp] Saving file at /sample.ipynb
+[I 02:56:38.954 NotebookApp] Saving file at /sample.ipynb
+[I 02:57:04.994 NotebookApp] Saving file at /sample.ipynb
+[I 02:57:52.834 NotebookApp] Saving file at /sample.ipynb
+[I 02:58:33.864 NotebookApp] Saving file at /work02.ipynb
+[I 02:59:05.768 NotebookApp] Saving file at /sample.ipynb
+[I 03:00:33.854 NotebookApp] Saving file at /work02.ipynb
+[I 03:01:38.505 NotebookApp] Saving file at /sample.ipynb
+[I 03:03:05.887 NotebookApp] Saving file at /sample.ipynb
+[I 03:05:04.746 NotebookApp] Saving file at /sample.ipynb
+[I 03:05:43.126 NotebookApp] Saving file at /sample.ipynb
+[I 03:05:48.785 NotebookApp] Saving file at /sample.ipynb
+[I 03:05:58.266 NotebookApp] Saving file at /sample.ipynb
+[I 03:06:01.854 NotebookApp] Saving file at /sample.ipynb
+[I 03:06:06.641 NotebookApp] Saving file at /sample.ipynb
+[I 03:06:33.608 NotebookApp] Saving file at /work02.ipynb
+[I 03:07:05.533 NotebookApp] Saving file at /sample.ipynb
+[I 03:08:33.608 NotebookApp] Saving file at /work02.ipynb
+[I 03:12:14.094 NotebookApp] Saving file at /work01.ipynb
+[I 03:13:20.311 NotebookApp] Saving file at /work01.ipynb
+[I 03:13:22.252 NotebookApp] Saving file at /work01.ipynb
+[I 03:13:29.625 NotebookApp] Saving file at /work01.ipynb
+[I 03:13:51.300 NotebookApp] Saving file at /work01.ipynb
+[I 03:13:56.208 NotebookApp] Saving file at /work01.ipynb
+[I 03:15:20.592 NotebookApp] Saving file at /work01.ipynb
+[I 03:16:29.880 NotebookApp] Saving file at /work02.ipynb
+[I 12:04:58.379 NotebookApp] Saving file at /work02.ipynb
+[I 12:10:58.311 NotebookApp] Saving file at /work02.ipynb
+[I 12:12:58.321 NotebookApp] Saving file at /work02.ipynb
+[I 12:15:59.049 NotebookApp] Saving file at /sample.ipynb
+[I 12:16:31.735 NotebookApp] Saving file at /sample.ipynb
+[I 12:17:30.253 NotebookApp] Saving file at /sample.ipynb
+[I 12:20:58.359 NotebookApp] Saving file at /work02.ipynb
+[I 12:21:40.793 NotebookApp] Saving file at /work02.ipynb
+[I 12:22:22.838 NotebookApp] Saving file at /work02.ipynb
+[I 12:22:58.354 NotebookApp] Saving file at /work02.ipynb
+[I 12:23:03.795 NotebookApp] Saving file at /work02.ipynb
+[I 12:23:46.918 NotebookApp] Saving file at /work02.ipynb
+[I 12:24:48.684 NotebookApp] Saving file at /work02.ipynb
+[I 12:24:58.385 NotebookApp] Saving file at /work02.ipynb
+[I 12:26:59.332 NotebookApp] Saving file at /work02.ipynb
+[I 12:27:30.617 NotebookApp] Saving file at /work02.ipynb
+[I 12:28:59.328 NotebookApp] Saving file at /work02.ipynb
+[I 12:30:58.388 NotebookApp] Saving file at /work02.ipynb
+[I 12:32:08.468 NotebookApp] Saving file at /work02.ipynb
+[I 12:32:14.210 NotebookApp] Saving file at /work02.ipynb
+[I 12:32:54.116 NotebookApp] Saving file at /work02.ipynb
+[I 12:32:58.413 NotebookApp] Saving file at /work02.ipynb
+[I 12:34:05.152 NotebookApp] Saving file at /work02.ipynb
+[I 12:34:58.452 NotebookApp] Saving file at /work02.ipynb
+[I 12:36:58.598 NotebookApp] Saving file at /work02.ipynb
+[I 12:37:05.108 NotebookApp] Saving file at /work02.ipynb
+[I 12:38:35.713 NotebookApp] Saving file at /work02.ipynb
+[I 12:38:58.435 NotebookApp] Saving file at /work02.ipynb
+[I 12:40:58.037 NotebookApp] Saving file at /work02.ipynb
+[W 12:42:19.887 NotebookApp] 404 GET /static/components/moment/locale/ja.js?v=20171207104711 (::1) 9.74ms referer=http://localhost:8888/notebooks/work02.ipynb
+[W 12:42:19.910 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171207104711 (::1) 5.27ms referer=http://localhost:8888/notebooks/work02.ipynb
+[I 12:42:21.186 NotebookApp] Adapting to protocol v5.1 for kernel 2354fb92-62e4-4dd9-869b-47ba5e6516de
+[I 12:42:31.825 NotebookApp] Starting buffering for 098cf443-32a1-433d-9ab2-db66d9706b00:319B0F2FBFC145EC9C68F861BCE0C4E7
+[I 12:43:01.922 NotebookApp] Starting buffering for fc32acea-100d-4b07-9c08-6c14364ec8da:35C28F58C8404B7B8A5B1BD9AFC31A3E
+[I 12:43:04.002 NotebookApp] Starting buffering for 06597e77-7fcd-4fc3-b132-70f2daad5c93:0783A3B6247F46258DEB0891B05B2CB3
+[I 12:43:38.107 NotebookApp] Saving file at /work02.ipynb
+[I 12:44:26.372 NotebookApp] Saving file at /work02.ipynb
+[I 12:44:28.673 NotebookApp] Starting buffering for 2354fb92-62e4-4dd9-869b-47ba5e6516de:0C6334B599434C488D3428EA59A35E26
+[W 12:44:32.309 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171207104711 (::1) 2.91ms referer=http://localhost:8888/notebooks/work02.ipynb
+[W 12:44:32.316 NotebookApp] 404 GET /static/components/moment/locale/ja.js?v=20171207104711 (::1) 4.52ms referer=http://localhost:8888/notebooks/work02.ipynb
+[I 12:44:33.416 NotebookApp] Adapting to protocol v5.1 for kernel 2354fb92-62e4-4dd9-869b-47ba5e6516de
+[W 12:45:07.075 NotebookApp] 404 GET /static/components/moment/locale/ja.js?v=20171207104711 (::1) 3.41ms referer=http://localhost:8888/tree
+[I 12:45:39.784 NotebookApp] 302 GET /tree (::1) 13.41ms
+[W 12:45:49.566 NotebookApp] 401 POST /login?next=%2Ftree (::1) 13.55ms referer=http://localhost:8888/login?next=%2Ftree
+[W 12:45:58.988 NotebookApp] 401 POST /login?next=%2Ftree (::1) 25.20ms referer=http://localhost:8888/login?next=%2Ftree
+[W 12:46:16.300 NotebookApp] Forbidden
+[W 12:46:16.303 NotebookApp] 403 GET /api/contents/work02.ipynb?content=0&_=1512704671648 (::1) 4.35ms referer=http://localhost:8888/notebooks/work02.ipynb
+[W 12:46:16.314 NotebookApp] Forbidden
+[W 12:46:16.315 NotebookApp] 403 PUT /api/contents/work02.ipynb (::1) 1.86ms referer=http://localhost:8888/notebooks/work02.ipynb
+[W 12:46:19.934 NotebookApp] Forbidden
+[W 12:46:19.935 NotebookApp] 403 GET /api/contents/work02.ipynb?content=0&_=1512704671649 (::1) 1.49ms referer=http://localhost:8888/notebooks/work02.ipynb
+[W 12:46:19.943 NotebookApp] Forbidden
+[W 12:46:19.944 NotebookApp] 403 PUT /api/contents/work02.ipynb (::1) 2.31ms referer=http://localhost:8888/notebooks/work02.ipynb
+[I 12:46:22.436 NotebookApp] Starting buffering for 2354fb92-62e4-4dd9-869b-47ba5e6516de:CC7B92AB2C7B4C2FB538841446E9DD30
+[I 12:47:10.420 NotebookApp] 302 GET /tree (::1) 8.72ms
+[W 12:47:22.227 NotebookApp] 401 POST /login?next=%2Ftree (::1) 40.83ms referer=http://localhost:8888/login?next=%2Ftree
